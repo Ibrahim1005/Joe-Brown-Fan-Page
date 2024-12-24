@@ -1,0 +1,34 @@
+<svg width="46" height="58" viewBox="0 0 46 58" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_577_10083)">
+<path d="M13.1724 26.5545L17.1888 28.8734L9.03273 43L6.69179 37.7792L13.1724 26.5545Z" fill="#AA75CB"/>
+<path d="M13.1724 26.5545L9.15596 24.2356L0.999928 38.3623L6.69179 37.7792L13.1724 26.5545Z" fill="#73488D"/>
+<path d="M18.9023 26.5545L14.8859 28.8734L23.042 43L25.3829 37.7792L18.9023 26.5545Z" fill="#73488D"/>
+<path d="M18.9023 26.5545L22.9187 24.2356L31.0748 38.3623L25.3829 37.7792L18.9023 26.5545Z" fill="#AA75CB"/>
+<path d="M16.0311 31.2719C24.0084 31.2719 30.4753 24.805 30.4753 16.8277C30.4753 8.85035 24.0084 2.38344 16.0311 2.38344C8.05372 2.38344 1.5868 8.85035 1.5868 16.8277C1.5868 24.805 8.05372 31.2719 16.0311 31.2719Z" fill="#DC9E42" stroke="#774700" stroke-width="1.23313"/>
+<circle cx="16.0308" cy="16.8279" r="10.7938" fill="#734C12"/>
+<mask id="mask0_577_10083" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="5" y="7" width="23" height="22">
+<circle cx="16.607" cy="17.9798" r="10.8189" fill="#C28B37"/>
+</mask>
+<g mask="url(#mask0_577_10083)">
+<circle cx="16.031" cy="16.8273" r="10.8189" fill="#A36D1D"/>
+</g>
+<path d="M16.0893 9.30133L18.423 13.9689L23.0906 14.5524L19.8855 18.1464L20.7568 23.3041L16.0893 20.9703L11.4217 23.3041L12.3007 18.1464L9.08789 14.5524L13.7555 13.9689L16.0893 9.30133Z" fill="url(#paint0_linear_577_10083)"/>
+</g>
+<defs>
+<filter id="filter0_d_577_10083" x="0.00406027" y="0.800691" width="45.58" height="56.6917" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="6.76308" dy="6.76308"/>
+<feGaussianBlur stdDeviation="3.86462"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_577_10083"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_577_10083" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_577_10083" x1="16.0893" y1="9.30133" x2="16.0893" y2="23.3041" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FCFF80"/>
+<stop offset="0.401042" stop-color="#FDE870"/>
+<stop offset="1" stop-color="#FFC759"/>
+</linearGradient>
+</defs>
+</svg>
